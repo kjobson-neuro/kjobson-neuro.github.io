@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Katie's GitHub Page
 
 You can use the [editor on GitHub](https://github.com/kjobson-neuro/kjobson-neuro.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
