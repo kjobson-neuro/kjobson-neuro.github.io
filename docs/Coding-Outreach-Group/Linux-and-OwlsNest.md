@@ -1,3 +1,9 @@
+---
+layout: default
+title: Linux and OwlsNest Workshop
+nav_order: 1
+---
+
 # Coding Outreach Group Summer Workshop
 # Linux/Owlsnest
 07/01/2021
