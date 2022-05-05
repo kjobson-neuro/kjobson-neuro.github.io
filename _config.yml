@@ -1,3 +1,7 @@
 remote_theme: just-the-docs/just-the-docs
-logo: "/assets/images/just-the-docs.png"
+logo: "/assets/images/olson_logo_kj.png"
 color_scheme: cog_website
+
+aux_links:
+  "Katie Jobson on GitHub":
+    - "//github.com/kjobson-neuro"
