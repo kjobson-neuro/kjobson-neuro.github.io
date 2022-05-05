@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Linux and OwlsNest Workshop
+parent: Coding Outreach Group
 nav_order: 1
 ---
 
