@@ -3,6 +3,7 @@ layout: default
 title: Coding Outreach Group
 nav_order: 3
 has_children: true
+permalink: /docs/Coding-Outreach-Group
 ---
 
 # Coding Outreach Group
