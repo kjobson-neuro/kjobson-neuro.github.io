@@ -9,8 +9,7 @@ title: GitHub Pages Workshop
 New
 {: .label .label-purple }
 Intermediate
-{: label .label-yellow }
-
+{: .label .label-yellow }
 ## GitHub Pages
 
 06/01/2022
