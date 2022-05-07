@@ -6,7 +6,7 @@ nav_order: 1
 # Katie R. Jobson, M.S.
 [Twitter](https://twitter.com/KatieJobson1){: .btn }
 [Lab Website](https://sites.temple.edu/cnltu/){: .btn }
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=8IMopbIAAAAJ){>
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=8IMopbIAAAAJ){: .btn }
 
 
 ## Welcome to my page!
