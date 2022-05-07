@@ -5,12 +5,12 @@ parent: Coding Outreach Group
 title: GitHub Pages Workshop
 ---
 
-# Coding Outreach Group Summer Workshop 2022
+# COG Summer Workshop 2022
 Intermediate 
 {: .label .label-yellow }
-## GitHub Pages
 New
 {: .label .label-blue }
+## GitHub Pages
 06/01/2022
 
 Content Creator: Katie Jobson
