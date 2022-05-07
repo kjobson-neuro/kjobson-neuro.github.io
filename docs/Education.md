@@ -5,6 +5,7 @@ nav_order: 2
 parent: About Me
 ---
 # My Education
+{: .no_toc }
 
 | University         | Degree             | Concentration          |PI                  | Years Attended |
 |:-------------------:|:-------------------:|:---------------------:|:--------------------:|:---------------:|
