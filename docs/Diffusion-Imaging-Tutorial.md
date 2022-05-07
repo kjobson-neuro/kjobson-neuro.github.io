@@ -6,6 +6,6 @@ nav_order: 5
 
 # Diffusion Imaging Tutorial
 Coming Soon
-{: .label .label-red }
+{: .label .label-purple }
 
 My main methodology in my studies has been diffusion weighted imaging. I plan on hosting a tutorial on how to preprocess diffusion data soon. 
