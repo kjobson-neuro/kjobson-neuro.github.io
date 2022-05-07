@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 3
-has_parent: Coding Outreach Group
+parent: Coding Outreach Group
 title: GitHub Pages Workshop
 ---
 
