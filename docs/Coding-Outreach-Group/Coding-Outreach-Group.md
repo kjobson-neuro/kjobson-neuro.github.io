@@ -14,5 +14,7 @@ Our aim is to help people learn more about coding, whether this is from a beginn
 
 Much of our expertise lie in coding surrounding Psychology and Neuroimaging, but we are expanding!
 
-Every summer we hold workshops on various techniques and languages. If you would like to preview some of the workshops that I have held, see the table of contents below. For the full list of workshops presented by the Coding Outreach Group, please visit our [GitHub page](https://github.com/TU-Coding-Outreach-Group)!
+Every summer we hold workshops on various techniques and languages. If you would like to preview some of the workshops that I have held, see the table of contents below. Each workshop is labeled as 'Beginner', 'Intermediate', or 'Expert'. Beginner tutorials do not need any background in coding, Intermediate and Expert tutorials require coding knowledge (generally listed on the page what the prerequisites are).
+
+For the full list of workshops presented by the Coding Outreach Group, please visit our [GitHub page](https://github.com/TU-Coding-Outreach-Group)!
 

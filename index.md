@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Home
+title: About Me
 nav_order: 1
+has_children: true
+permalink: /
 ---
 # Katie R. Jobson, M.S.
 [Twitter](https://twitter.com/KatieJobson1){: .btn }
@@ -19,8 +21,6 @@ I am in the department of Psychology and Neuroscience at Temple University. I ha
 
 ## What is this page for?
 
-This website contains information about me, my publications and current projects, as well as workshops I have hosted!
+This website contains information about me, my publications, as well as workshops I have hosted!
 
-The creation of this website was actually for a workshop demonstration, but I had so much fun with it that I kept it as my actual page.
-
-I intend to upload workshops that I have hosted or helped host. I am striving to be more open science as I progress through my PhD!
+The creation of this website was actually for a workshop demonstration, but I had so much fun with it that I kept it as my actual page. 
