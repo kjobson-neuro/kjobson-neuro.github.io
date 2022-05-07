@@ -4,6 +4,7 @@ title: Education
 nav_order: 2
 parent: About Me
 ---
+# My Education
 
 | University         | Degree             | Concentration          |PI                  | Years Attended |
 |:-------------------:|:-------------------:|:---------------------:|:--------------------:|:---------------:|
