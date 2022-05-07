@@ -8,11 +8,11 @@ permalink: /docs/Coding-Outreach-Group
 
 # Coding Outreach Group
 
-The Coding Outreach Group was founded at Temple University by [Haroon Popal](https://sites.temple.edu/cnltu/haroon-popal/) and [Elizabeth Beard](https://www.fox.temple.edu/about-fox/directory/liz-beard/)
+The Coding Outreach Group was founded at Temple University by [Haroon Popal](https://sites.temple.edu/cnltu/haroon-popal/) and [Elizabeth Beard](https://www.fox.temple.edu/about-fox/directory/liz-beard/).
 
 Our aim is to help people learn more about coding, whether this is from a beginner or intermediate role. We love to code and want to share that with other students.
 
-Much of our expertise lie in coding surrounding Python and Neuroimaging, but we are expanding!
+Much of our expertise lie in coding surrounding Psychology and Neuroimaging, but we are expanding!
 
 Every summer we hold workshops on various techniques and languages. If you would like to preview some of the workshops that I have held, see the table of contents below. For the full list of workshops presented by the Coding Outreach Group, please visit our [GitHub page](https://github.com/TU-Coding-Outreach-Group)!
 
