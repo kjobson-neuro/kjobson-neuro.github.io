@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Coding Outreach Group
-nav_order: 3
+nav_order: 4
 has_children: true
 permalink: /docs/Coding-Outreach-Group
 ---
