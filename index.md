@@ -16,4 +16,9 @@ This website contains information about me, my publications and current projects
 
 The creation of this website was actually for a workshop demonstration, but I had so much fun with it that I kept it as my actual page.
 
+## Where can you find me?
+
+[Twitter](https://twitter.com/KatieJobson1){: .btn }
+[Lab Website](https://sites.temple.edu/cnltu/){: .btn }
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=8IMopbIAAAAJ){: .btn ]
 
