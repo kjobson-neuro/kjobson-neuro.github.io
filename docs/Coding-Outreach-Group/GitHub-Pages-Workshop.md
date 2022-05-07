@@ -6,13 +6,9 @@ title: GitHub Pages Workshop
 ---
 
 # Coding Outreach Group Summer Workshop 2022
-New
+New {: .label .label-blue }
+Intermediate {: .label .label-yellow }
 
-{: .label .label-blue }
-
-Intermediate
-
-{: .label .label-yellow }
 ## GitHub Pages
 
 06/01/2022
