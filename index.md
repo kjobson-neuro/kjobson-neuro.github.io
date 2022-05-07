@@ -20,5 +20,5 @@ The creation of this website was actually for a workshop demonstration, but I ha
 
 [Twitter](https://twitter.com/KatieJobson1){: .btn }
 [Lab Website](https://sites.temple.edu/cnltu/){: .btn }
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=8IMopbIAAAAJ){: .btn ]
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=8IMopbIAAAAJ){: .btn }
 
