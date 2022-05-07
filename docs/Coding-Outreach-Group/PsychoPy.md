@@ -5,9 +5,7 @@ nav_order: 4
 title: PsychoPy Workshop
 ---
 # Coding Outreach Group SUmmer Workshop 2020
-Beginner
-{: .label .label-green }
-
+Beginner {: .label .label-green }
 Intermediate
 {: .label .label-yellow }
 ## PsychoPy Tutorial
