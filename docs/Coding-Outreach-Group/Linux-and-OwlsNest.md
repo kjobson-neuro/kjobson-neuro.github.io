@@ -34,12 +34,12 @@ In this workshop, we walk attendees through the basics of what a linux computer 
 - [Notebook Viewer](https://tu-coding-outreach-group.github.io/cog_summer_workshops_2021/linux-owlsnest/index.html)
 
 ## Outline
-| Topic | Time | Description |
-| --- | --- | --- |
-| Intro | The need for more computational power | 5 min |
-| Tutorial 1 | Linux machines | 20 min |
-| Tutorial 2 | OwlsNest HPC | 20 min |
-| Outro | See it in use | 5 min 
+| Topic      | Time                                  | Time   |
+| : -------- | : ----------------------------------- | : ---- |
+| Intro      | The need for more computational power | 5 min  |
+| Tutorial 1 | Linux machines                        | 20 min |
+| Tutorial 2 | OwlsNest HPC                          | 20 min |
+| Outro      | See it in use                         | 5 min  | 
 
 ## Additional Resources
 - https://www.hpc.temple.edu/owlsnest2/
