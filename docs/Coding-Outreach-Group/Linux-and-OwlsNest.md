@@ -5,8 +5,8 @@ parent: Coding Outreach Group
 nav_order: 2
 ---
 
-# Coding Outreach Group Summer Workshop
-# Linux/Owlsnest
+# Coding Outreach Group Summer Workshop 2021
+## **Linux/Owlsnest**
 07/01/2021
 
 __**Content creator:**__ Katie Jobson, Haroon Popal
@@ -35,15 +35,10 @@ In this workshop, we walk attendees through the basics of what a linux computer 
 
 ## Outline
 | Topic      | Time                                  | Time   |
-
 |:-----------|:--------------------------------------|:-------|
-
 | Intro      | The need for more computational power | 5 min  |
-
 | Tutorial 1 | Linux machines                        | 20 min |
-
 | Tutorial 2 | OwlsNest HPC                          | 20 min |
-
 | Outro      | See it in use                         | 5 min  | 
 
 ## Additional Resources
