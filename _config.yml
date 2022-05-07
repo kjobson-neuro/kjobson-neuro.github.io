@@ -7,4 +7,5 @@ color_scheme: cog_website
 aux_links:
   "Katie Jobson on GitHub":
     - "//github.com/kjobson-neuro"
+aux_links_new_tab: true
 
