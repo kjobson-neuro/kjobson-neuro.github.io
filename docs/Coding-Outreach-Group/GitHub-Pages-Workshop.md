@@ -7,7 +7,11 @@ title: GitHub Pages Workshop
 
 # COG Summer Workshop 2022
 Intermediate 
-{: .label .label-yellow } New
+
+{: .label .label-yellow } 
+
+
+New
 {: .label .label-blue }
 ## GitHub Pages
 06/01/2022
