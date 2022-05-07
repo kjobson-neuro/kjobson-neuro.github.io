@@ -35,10 +35,15 @@ In this workshop, we walk attendees through the basics of what a linux computer 
 
 ## Outline
 | Topic      | Time                                  | Time   |
+
 |:-----------|:--------------------------------------|:-------|
+
 | Intro      | The need for more computational power | 5 min  |
+
 | Tutorial 1 | Linux machines                        | 20 min |
+
 | Tutorial 2 | OwlsNest HPC                          | 20 min |
+
 | Outro      | See it in use                         | 5 min  | 
 
 ## Additional Resources
