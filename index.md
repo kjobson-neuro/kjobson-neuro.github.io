@@ -3,10 +3,13 @@ layout: default
 title: Home
 nav_order: 1
 ---
+# Katie R. Jobson, M.S.
 
-# Welcome to my page!
+## Welcome to my page!
 
 My name is Katie Jobson and I am currently a PhD student under [Dr. Ingrid Olson's](https://sites.temple.edu/cnltu/ingrid-olson-phd/) supervision. I am studying the role of the cerebellum in non-motor function. I like to code in Python, Bash, FSL, and GitHub!
+
+I am in the department of Psychology and Neuroscience at Temple University. I have a strong background in coding and have been striving to be more open source in my documentation. I hope to upload tutorials and workshops that I have hosted or have helped host at Temple.
 
 I am currently living in Philadelphia, PA, USA. My favorite things to do are to travel, hike and try good food around the city!
 
