@@ -7,7 +7,7 @@ nav_order: 2
 
 
 | Citation                                                | Link        |
-| :-------------------------------------------------------| :-----------|
+|:--------------------------------------------------------|:------------|
 |**Jobson, K. R.**, Hoffman, L. J., Metoki, A., Popal, H.,| [Preprint](https://www.biorxiv.org/content/10.1101/2022.04.19.488812v1.abstract)| 
 |Dick, A. S., Reilly, J., & Olson, I. R. (2022). Language |             |
 |and the cerebellum: structural connectivity to the       |             |
