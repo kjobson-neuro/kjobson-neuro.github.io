@@ -8,7 +8,6 @@ nav_order: 2
 # Coding Outreach Group Summer Workshop 2021
 Intermediate
 {: .label .label-yellow }
-
 ## **Linux/Owlsnest**
 07/01/2021
 
