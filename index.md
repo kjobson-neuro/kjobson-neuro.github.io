@@ -10,7 +10,7 @@ My name is Katie Jobson and I am currently a PhD student under [Dr. Ingrid Olson
 
 I am currently living in Philadelphia, PA, USA. My favorite things to do are to travel, hike and try good food around the city!
 
-![Me!](/assets/images/me.jpg)
+![Me!](/assets/images/me_resize.jpg)
 
 ## What is this page for?
 
