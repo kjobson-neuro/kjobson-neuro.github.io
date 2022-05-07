@@ -4,7 +4,7 @@ parent: Coding Outreach Group
 nav_order: 4
 title: PsychoPy Workshop
 ---
-# Coding Outreach Group SUmmer Workshop 2020
+# COG Summer Workshop 2020
 Intermediate
 {: .label .label-yellow }
 ## PsychoPy Tutorial

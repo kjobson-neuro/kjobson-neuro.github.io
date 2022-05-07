@@ -14,7 +14,7 @@ New
 06/01/2022
 
 Content Creator: Katie Jobson
-COntent Editors:
+oOntent Editors:
 
 ### Description
 
