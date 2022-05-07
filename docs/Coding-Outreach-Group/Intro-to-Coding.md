@@ -15,7 +15,7 @@ This set of tutorials is intented for complete beginners to coding. If you have 
 
 ## Agenda
 
-| Date   | Workshop            | Instructor       |
+| Date | Workshop | Instructor |
 |:------:|:-------------------:|:----------------:|
 | 12/14  | [Bash Command line](https://github.com/TU-Coding-Outreach-Group/intro-to-coding-2021//tree/main/bash)| Haroon Popal |
 | 12/15  | [Python](https://github.com/TU-Coding-Outreach-Group/intro-to-coding-2021//tree/main/python)| Katie Jobson |
