@@ -51,7 +51,7 @@ This workshop aims to cover the basics of GitHub, and will give a tutorial on ho
 | Topic | Description | Time |
 |:-------:|:------------------:|
 | Intro  | Why Use GitHub? | 5 min 
-| Part 1 | What is GitHub and How to Use It | 15 min |
+| Part 1 | GitHub Basics | 15 min |
 | Part 2 | GitHub Pages and Templates | 10 min |
 | Part 3 | Creat Your Website! | 30 min |
 | Outro  | Load Your Website  | 5 min  |
