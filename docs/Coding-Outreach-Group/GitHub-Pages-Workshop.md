@@ -46,7 +46,7 @@ This workshop aims to cover the basics of GitHub, and will give a tutorial on ho
 
 - [Notebook Viewer](link here)
 
-###Outline
+### Outline
 
 | Topic | Description | Time |
 |:-------:|:------------------:|
