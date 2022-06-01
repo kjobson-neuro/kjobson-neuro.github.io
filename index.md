@@ -17,7 +17,8 @@ My name is Katie Jobson and I am currently a PhD student under [Dr. Ingrid Olson
 
 I am in the department of Psychology and Neuroscience at Temple University. I have a strong background in coding and have been striving to be more open source in my documentation. I am currently living in Philadelphia, PA, USA. My favorite things to do are to travel, hike and try good food around the city!
 
-![Me!](/assets/images/me_resize.jpg)
+<img src="/assets/images/me_resize.jpg" alt="drawing" width="200"/>
+//![Me!](/assets/images/me_resize.jpg)
 
 ## What is this page for?
 
