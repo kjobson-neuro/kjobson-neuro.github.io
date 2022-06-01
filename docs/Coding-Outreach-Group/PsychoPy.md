@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Coding Outreach Group
-nav_order: 4
+nav_order: 3
 title: PsychoPy Workshop
 ---
 # COG Summer Workshop 2020

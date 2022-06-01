@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 3
+nav_order: 4
 parent: Coding Outreach Group
 title: GitHub Pages Workshop
 ---
@@ -9,12 +9,13 @@ title: GitHub Pages Workshop
 
 {: .label .label-blue }
 New
-## GitHub Pages
+
+# Git/Github Pages
 06/01/2022
 
-Content Creator: Katie Jobson
+__**Content creator:**__ Katie Jobson
 
-Content Editors:
+__**Content editor:**__ Haroon Popal
 
 ### Description
 
@@ -22,8 +23,8 @@ This workshop aims to cover the basics of GitHub, and will give a tutorial on ho
 
 ### Prerequisites
 
-1. Basic knowledge of bash scripting. 
-2. A picture of your lab logo (or your animal)
+1. Basic knowledge of bash scripting and Markdown. 
+2. A picture of your lab logo (or your animal) in **PNG** format
 
 
 ### Set Up (to do before the workshop)
@@ -39,19 +40,33 @@ This workshop aims to cover the basics of GitHub, and will give a tutorial on ho
 ### Workshop Objectives
 
 1. Learn some of the basic utilities of GitHub
-2. Create your own website!!
+2. Create your own website (like [mine](https://kjobson-neuro.github.io/))!!
 
 
 ### Workshop Materials
 
-- [Notebook Viewer](link here)
+- [Notebook Viewer](https://tu-coding-outreach-group.github.io/cog_summer_workshops_2022/github/index.html)
 
 ### Outline
 
 | Topic | Description | Time |
-|:-------:|:------------------:|
+|:-------:|:------------------:|:--------:|
 | Intro  | Why Use GitHub? | 5 min 
 | Part 1 | GitHub Basics | 15 min |
 | Part 2 | GitHub Pages and Templates | 10 min |
-| Part 3 | Creat Your Website! | 30 min |
+| Part 3 | Create Your Website! | 30 min |
 | Outro  | Load Your Website  | 5 min  |
+
+### Other Resources
+- COG 2021 [Intro to git and GitHub](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2021/tree/main/git-github) by Elizabeth Beard
+- This workshop is focused on have people manage repositories on their local computers for version control
+- [Software Carpetry](https://swcarpentry.github.io/git-novice/)
+- Elizabeth DuPre's [Git Course](https://emdupre.github.io/git-course/)
+- Stephanie DeCross's [Visual Guide to GitHub](https://zenodo.org/record/3369466#.YL4cVDZKh24)
+- Mozilla's [GitHub training](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/introducing-github-for-collaborative-work-and-version-control/)
+- Jenny Bryan's [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+- [GitHub's Documentation](https://docs.github.com/en/github/getting-started-with-github/quickstart/set-up-git)
+
+
+### Thanks to all of our participants:
+
