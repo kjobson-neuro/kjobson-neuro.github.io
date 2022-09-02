@@ -16,3 +16,6 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 last_edit_timestamp: true
+
+ga_tracking: G-ZP3VYT3TCG
+ga_tracking_anonymize_ip: true
