@@ -18,4 +18,4 @@ Every summer we hold workshops on various techniques and languages. If you would
 
 For the full list of workshops presented by the Coding Outreach Group, please visit our [GitHub page](https://github.com/TU-Coding-Outreach-Group)!
 
-<img src="/assets/images/COG_Color.jpg" alt="drawing" width="200"/>
+<img src="/assets/images/COG_Color.png" alt="drawing" width="200"/>
