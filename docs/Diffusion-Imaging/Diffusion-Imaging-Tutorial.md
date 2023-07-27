@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Diffusion Imaging Tutorial
-nav_order: 1
-parent: Diffusion-Imaging
+title: Diffusion Imaging
+nav_order: 4
+has_children: true
+permalink: /docs/Diffusion-Imaging
 ---
 
-# Diffusion Imaging Tutorial
+
+# Diffusion Imaging Tutorials
 Coming Soon
 {: .label .label-purple }
 
