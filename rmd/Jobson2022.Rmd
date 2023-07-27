@@ -1,0 +1,42 @@
+---
+title: "Jobson et al. (2022)"
+author: "**Katie Jobson**"
+date: "`r Sys.Date()`"
+output: 
+  html_document: 
+    number_sections: true
+    toc: true
+    toc_depth: 2
+    toc_float:
+      collapsed: false
+    self_contained: yes
+    mode: selfcontained
+    df_print: paged
+    css: !expr here::here("style_kjobson.css")
+knit: (function(inputFile, encoding) { 
+      out_dir <- './';
+      rmarkdown::render(inputFile,
+                        encoding=encoding, 
+                        output_file=file.path(dirname(inputFile), out_dir, 'jobson2022.html')) })
+---
+
+# Language and the cerebellum: structural connectivity to the eloquent brain
+
+This is the RMarkdown file associated with my 2022 paper entitled: "Language and the cerebellum: structural connectivity to the eloquent brain". This paper was published in the Neurobiology of Language journal in 2022. All associated data can be found at [my OSF page](https://osf.io/w649b/).
+
+## Data
+
+The data used in this paper are all from the [Human Connectome Project (HCP)](https://www.humanconnectome.org/) dataset.
+
+All of the data is preprocessed up until eddy motion correction. For an in-depth description of the pre-preprocessing steps used, please see [this paper](https://pubmed.ncbi.nlm.nih.gov/23668970/).
+
+## Subjects
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
