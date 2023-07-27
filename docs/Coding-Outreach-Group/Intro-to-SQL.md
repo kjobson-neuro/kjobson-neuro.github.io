@@ -40,13 +40,14 @@ If you would like to use Jupyter Notebooks to run SQL commands, we will be cover
 ## Outline
 | Section                | Description                                | Time   |  
 |:----------------------:|:------------------------------------------:|:------:|  
-| Intro                  | What is SQL and why would we wse it\?      | 15 min |  
+| Intro                  | What is SQL and why would we wse it?       | 15 min |  
 | Setup                  | Setting up an SQL Server                   | 25 min |  
+
 | Code                   | Coding in SQL                              | 15 min |  
 | Integration & Analyses | Taking data from SQL and analyzing it in R | 15 min |  
 | Advanced Functions     | Briefly introduce more advanced functions  | 15 min |  
 | Conclusion             | Wrapping up                                | 5 min  |  
-| Q&A                    | Questions\?                                | 30 min |  
+| Q&A                    | Questions?                                 | 30 min |  
 
 ## Additional Resources
 [W3schools tutorial on SQL](https://www.w3schools.com/sql/)    
