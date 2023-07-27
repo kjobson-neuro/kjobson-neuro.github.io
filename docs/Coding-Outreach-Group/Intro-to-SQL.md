@@ -45,8 +45,8 @@ If you would like to use Jupyter Notebooks to run SQL commands, we will be cover
 | Part 3: Code | Coding in SQL  | 15 min |         
 | Part 4: Integration & Analyses | Taking data from SQl and analyzing it in R | 15 min |           
 | Part 5: Advanced Functions | Briefly introduce more advanced functions | 15 min |            
-| Part 6: Conclusion | --- | 5 min  |          
-| Q & A | --- | 30 min |         
+| Part 6: Conclusion | Wrapping up | 5 min  |          
+| Q & A | Questions? | 30 min |         
 
 ## Additional Resources
 [W3schools tutorial on SQL](https://www.w3schools.com/sql/)    
