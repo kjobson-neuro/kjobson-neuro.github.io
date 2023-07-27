@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Diffusion Imaging Tutorial
-nav_order: 5
+nav_order: 1
+parent: Diffusion-Imaging
 ---
 
 # Diffusion Imaging Tutorial
