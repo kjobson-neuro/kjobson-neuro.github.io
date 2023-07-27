@@ -39,7 +39,7 @@ If you would like to use Jupyter Notebooks to run SQL commands, we will be cover
 
 ## Outline
 | Section                        | Description | Time |  
-| -------------------------------|------|--------|  
+| ------------------------------ | ------ | -------- |  
 | Part 1: Intro                  | What is SQL and why would we wse it? | 15 min |  
 | Part 2: Setup                  | Setting up an SQL Server | 25 min |  
 | Part 3: Code                   | Coding in SQL | 15 min |  
