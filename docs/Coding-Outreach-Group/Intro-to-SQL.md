@@ -9,8 +9,6 @@ title: Intro to SQL Workshop
 
 {: .label .label-blue }
 New
-
-
 # Intro to SQL
 07/27/2023
 
@@ -41,7 +39,7 @@ If you would like to use Jupyter Notebooks to run SQL commands, we will be cover
 
 ## Outline
 | Section | Description | Time |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | Part 1: Intro | What is SQL and why would we wse it? | 15 min |
 | Part 2: Setup | Setting up an SQL Server | 25 min |
 | Part 3: Code | Coding in SQL | 15 min |
@@ -51,11 +49,12 @@ If you would like to use Jupyter Notebooks to run SQL commands, we will be cover
 | Q & A | --- | 30 min |
 
 ## Additional Resources
-W3schools tutorial on SQL: https://www.w3schools.com/sql/    
-Khan Academy tutorial on SQL: https://www.khanacademy.org/computing/computer-programming/sql   
-Kaggle **advanced** tutorial on SQL: https://www.kaggle.com/learn/advanced-sql     
+[W3schools tutorial on SQL](https://www.w3schools.com/sql/)    
+[Khan Academy tutorial on SQL](https://www.khanacademy.org/computing/computer-programming/sql)   
+[Kaggle **advanced** tutorial on SQL](https://www.kaggle.com/learn/advanced-sql)     
 
 ### Packages and Dependencies
 R:   
 ```pacman``` - package that unpacks multiple packages at a time in R \
-```DBI``` - package that allows users to access SQL databases     
+```DBI``` - package that allows users to access SQL databases \
+```odbc``` - package that allows us to read SQL data into an R variable    
