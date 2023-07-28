@@ -1,7 +1,7 @@
 exclude: ["README.md"]
 
 remote_theme: just-the-docs/just-the-docs
-logo: "/assets/images/olson_logo_kj.png"
+logo: "/assets/images/olson_logo.png"
 color_scheme: cog_website
 
 aux_links:
