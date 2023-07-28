@@ -8,7 +8,9 @@ permalink: /docs/Coding-Outreach-Group
 
 # Coding Outreach Group
 
-The Coding Outreach Group (COG) was founded at Temple University by [Haroon Popal](https://sites.temple.edu/cnltu/haroon-popal/) and [Elizabeth Beard](https://www.fox.temple.edu/about-fox/directory/liz-beard/).
+The Coding Outreach Group (COG) was founded at Temple University by [Haroon Popal](https://sites.temple.edu/cnltu/haroon-popal/) and [Elizabeth Beard](https://www.linkedin.com/in/lizbeard/).
+
+Current COG Board include myself and [Billy Mitchell](https://wj-mitchell.github.io/)
 
 Our aim is to help people learn more about coding, whether this is from a beginner or intermediate role. We love to code and want to share that with other students.
 
