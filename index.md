@@ -21,3 +21,15 @@ I am in the department of Psychology and Neuroscience at Temple University. I ha
 <img src="/assets/images/me_resize.jpg" alt="drawing" width="200"/>
 
 
+## Contact Me
+
+If you would like to get in contact with me, please fill out your email and a short message describing why in the boxes below:
+
+<form action="https://fabform.io/f/Riqcq94" method="post">
+ <label for="email">Your Email</label>
+ <input name="email" type="email">
+ <label for="email">Your Short Message</label>
+ <input name="message" type="text">
+ <button type="submit">Submit</button>
+</form>
+
