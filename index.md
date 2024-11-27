@@ -5,22 +5,21 @@ nav_order: 1
 has_children: true
 permalink: /
 ---
-# Katie R. Jobson, M.S.
-[Twitter](https://twitter.com/KatieJobson1){: .btn }
-[Lab Website](https://sites.temple.edu/cnltu/){: .btn }
+# Katie R. Jobson, Ph.D.
+[Bluesky](https://bsky.app/profile/kjobson.bsky.social){: .btn}
+[GitHub](https://github.com/kjobson-neuro){: .btn }
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=8IMopbIAAAAJ){: .btn }
 
 
 ## Welcome to my page!
 
-My name is Katie Jobson and I am currently a PhD student under [Dr. Ingrid Olson's](https://sites.temple.edu/cnltu/ingrid-olson-phd/) supervision. I am studying the role of the cerebellum in non-motor function. I like to code in Python, Bash, FSL, and GitHub!
+My name is Katie Jobson and I am currently a Postdoctoral Fellow working with [Dr. John Detre](https://hosting.med.upenn.edu/detrelab/) and [Dr. David Wolk](https://pennmemorycenter.org/who-we-are/staff/david-wolk-md/). During my Ph.D., I  studied the role of the cerebellum in language and language development using diffusion-weighted MRI methods. In my current position, I aim to use arterial spin labeling (ASL) to investigate the changes to brain perfusion in those diagnosed with Alzheimer's Disease.
 
-I am in the department of Psychology and Neuroscience at Temple University. I have a strong background in coding and have been striving to be more open source in my documentation. I am currently living in Philadelphia, PA, USA. My favorite things to do are to travel, hike and try good food around the city!
+I have a passion for coding and use that skill to impliment neuroimaging processing in an effective and open-source way! Check out the rest of my website for various coding workshops I have held throughout my time at Temple University working with the Coding Outreach Group.
 
-I am currently supported by the NICHD via my F31 "Language and the cerebellum".
+I am currently living in Philadelphia, PA, USA. My favorite things to do are to travel, hike and try good food around the city!
 
 <img src="/assets/images/me_resize.jpg" alt="drawing" width="200"/>
-
 
 ## Contact Me
 

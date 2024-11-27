@@ -6,7 +6,7 @@ body{
   font-size: 12pt;
   color: #D3D3D3;
   opacity: 0.95;
-  background-color: #212121;  
+  background-color: #CCC5B7;  
   background-image: url("assets/images/COG_Color.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -19,11 +19,11 @@ body{
   h1.title {
     font-size: 26pt;
     font-weight: 650;
-    color: #ffffff;
+    color: #000000;
     /* background-image: radial-gradient(#8A8D8F, #ffffff);
     background-clip: text;
     -webkit-background-clip: text; */
-    background-color: #9D2235;
+    background-color: #011F5B;
     border-radius: 5px 20px 20px;
     opacity: 1.0;
     padding-top: 1em;
@@ -43,8 +43,8 @@ body{
   h1 {
     font-size: 23pt;
     font-weight: bold;
-    color: 	 #FFFFFF;
-    background-color: #9D2235;
+    color: 	 #000000;
+    background-color: #011F5B;
     opacity: .90;
     padding-top: .25em;
     padding-left: .5em;
@@ -66,7 +66,7 @@ body{
   
   h3 { 
     font-size: 16pt;
-    color: #ffffff;
+    color: #000000;
     padding-top:.5em;
     padding-left: .5em;
     font-style: italic;
@@ -112,7 +112,7 @@ body{
   
   /* visited link */
   a:visited {
-    color: #9D2235;
+    color: #011F5B;
     text-decoration: none;
   }
   
@@ -130,7 +130,7 @@ body{
     width:20%;
     font-size: 9.5pt;
     color: black;
-    border: 12.5px solid #9D2235;
+    border: 12.5px solid #011F5B;
     border-radius: 15px;
     background: grey;
     padding: .5em;
