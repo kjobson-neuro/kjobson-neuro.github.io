@@ -15,7 +15,7 @@ permalink: /
 
 My name is Katie Jobson and I am currently a Postdoctoral Fellow working with [Dr. John Detre](https://hosting.med.upenn.edu/detrelab/) and [Dr. David Wolk](https://pennmemorycenter.org/who-we-are/staff/david-wolk-md/). During my Ph.D., I  studied the role of the cerebellum in language and language development using diffusion-weighted MRI methods. In my current position, I aim to use arterial spin labeling (ASL) to investigate the changes to brain perfusion in those diagnosed with Alzheimer's Disease.
 
-I have a passion for coding and use that skill to impliment neuroimaging processing in an effective and open-source way! Check out the rest of my website for various coding workshops I have held throughout my time at Temple University working with the Coding Outreach Group.
+I have a passion for coding and use that skill to implement neuroimaging processing in an effective and open-source way! Check out the rest of my website for various coding workshops I have held throughout my time at Temple University working with the Coding Outreach Group.
 
 I am currently living in Philadelphia, PA, USA. My favorite things to do are to travel, hike and try good food around the city!
 
